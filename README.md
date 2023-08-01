@@ -39,13 +39,13 @@
   
   
 # 작업 목록
-### 마이페이지 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki)
+  - ### 마이페이지 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki)
 1. 회원 정보 받아오기
 2. 채널의 이미지 설정하기
 3. 주소 API
 4. 비밀번호 변경을 원하지 않는 경우 비밀번호 입력 없이 정보 변경 가능하게 하기
 5. 변경하기 클릭 시 수정된 회원의 정보 DB에 저장하기
-### 장바구니 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki)
+  - ### 장바구니 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki)
 1. 장바구니에 넣은 상품 정보 받아오기
 2.  +,- 버튼으로 상품 수량 변경에 따른 상품금액과 총 가격 변화 
 3. 상품의 수량 최소 개수가 1 이상의 정수
@@ -54,14 +54,14 @@
 6.  체크박스 선택으로 상품 삭제 
 7.  상품주문 클릭 시 결제하기 페이지로 이동
 8.  체크박스가 선택이 안되어있는 경우 구매 페이지로 이동 불가
-### 구매하기 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki)
+  - ### 구매하기 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki)
 1. 구매할 상품 정보 받기
 2.  결제 API연결
 3. 장바구니 페이지에서 각 상품의 수량 받아오기
 4. 결제한 상품 정보 DB에 저장
 5.  이메일 나눠서 가져오기
 6.  회원 정보의 배송정보 받아오고 새로운 배송정보 입력 가능하게 하기
-### 구매내역 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki)
+  - ### 구매내역 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki)
 1. 구매한 상품 정보 받기
 2. 한 페이지당 상품 10개씩 띄우고 5단위로 페이지 리스트 정렬
 3. 반품버튼을 클릭 시 해당 주문번호에 해당하는 상품 DB에 반품신청 처리
