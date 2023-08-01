@@ -1,10 +1,13 @@
 # ✔ 판당 (JSP Project) 
-### 소셜미디어 인플루언서의 개인제작상품 판매, 구매하고 팬들과 소통하는 플랫폼  
+### 소셜미디어 인플루언서의 개인제작상품 판매, 구매하고 팬들과 소통하는 공간  
+증가하는 인플루언서의 자체제작 상품을 한 번에 보고 구매할 수 있는 사이트
   
-  
+</br>
+</br>
+
 # ✔ 팀 구성 
-| 팀원  | 6인  |  작업 목록  |
-| --- | --- | --- |
+| 구성  | 6인  |  작업 목록  |
+| :---: | :---: | :---: |
 | 팀장 | 박광인 | 회원가입, 로그인 |
 | 부팀장 | 이건희 | 관리자, 게시글 작성 |
 | 팀원 | 김덕수 | 판매 기능 |
@@ -12,9 +15,11 @@
 | 팀원 | 이가은 | SNS 기능 |
 | 팀원 | 정연재 | 메인 |  
   
+</br>
+</br>
   
 # ✔ Stacks
-| 🐼  | 판당  |
+|   |   |
 | :--- | :--- |
 | 💻 IDE | ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  |  
 | 📋 Language | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  |
@@ -37,7 +42,9 @@
   - HTML, CSS, JavaScript
   - JQuery  
   
-  
+</br>
+</br>
+
 # 작업 목록
   - ### 마이페이지 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki)
 1. 회원 정보 받아오기
