@@ -1,4 +1,4 @@
-# ✔ 판당 (JSP Project) 
+# ✔ 판당
 ### 소셜미디어 인플루언서의 개인제작상품 판매, 구매하고 팬들과 소통하는 공간  
 증가하는 인플루언서의 자체제작 상품을 한 번에 보고 구매할 수 있는 사이트
   
@@ -18,7 +18,7 @@
 </br>
 </br>
   
-# ✔ Stacks
+# ✔ Stacks (JSP Project) 
 |   |   |
 | :--- | :--- |
 | 💻 IDE | ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  |  
@@ -28,19 +28,6 @@
 | 💾 Database | 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | 🗄️ Server | ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) |  
 | 📤 Version Control | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
- 
-- Eclipse
-  - Java  
-  - JSP
-  - Apach Tomcat
-  - Mybatis 
-
-- DBeaver
-  - MySQL 
-  
-- VS Code
-  - HTML, CSS, JavaScript
-  - JQuery  
   
 </br>
 </br>
