@@ -39,7 +39,7 @@
 3. 주소 API
 4. 비밀번호 변경을 원하지 않는 경우 비밀번호 입력 없이 정보 변경 가능하게 하기
 5. 변경하기 클릭 시 수정된 회원의 정보 DB에 저장하기
-  - ### 장바구니 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki/%F0%9F%9B%92-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88)
+  - ### ✨장바구니 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki/%F0%9F%9B%92-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88)
 1. 장바구니에 넣은 상품 정보 받아오기
 2.  +,- 버튼으로 상품 수량 변경에 따른 상품금액과 총 가격 변화 
 3. 상품의 수량 최소 개수가 1 이상의 정수
