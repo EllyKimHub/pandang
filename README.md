@@ -38,6 +38,9 @@
 
 # 작업 목록
   - ### 마이페이지 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki/%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80)
+
+![myPage](https://github.com/EllyKimHub/pandang/assets/123884116/bab6edaf-a651-472e-a8c0-919898d3d7ef)
+
 1. 회원 정보 받아오기
 2. 채널의 이미지 설정하기
 3. 주소 API
