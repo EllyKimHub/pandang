@@ -48,8 +48,6 @@
 5. 변경하기 클릭 시 수정된 회원의 정보 DB에 저장하기
   - ### ✨장바구니 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki/%F0%9F%9B%92-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88)
 
-![cart](https://github.com/EllyKimHub/pandang/assets/123884116/d0299a86-2522-4111-a50f-4cf45dd46ea9)
-
 1. 장바구니에 넣은 상품 정보 받아오기
 2.  +,- 버튼으로 상품 수량 변경에 따른 상품금액과 총 가격 변화 
 3. 상품의 수량 최소 개수가 1 이상의 정수
@@ -59,8 +57,6 @@
 7.  상품주문 클릭 시 결제하기 페이지로 이동
 8.  체크박스가 선택이 안되어있는 경우 구매 페이지로 이동 불가
   - ### 구매하기 [🔗코드 보기](https://github.com/EllyKimHub/pandang/wiki/%E2%9C%A8-%F0%9F%92%B3%EF%B8%8E-%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0)
-
-![cart](https://github.com/EllyKimHub/pandang/assets/123884116/d0299a86-2522-4111-a50f-4cf45dd46ea9)
 
 1. 구매할 상품 정보 받기
 2.  결제 API연결
@@ -86,5 +82,5 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 마이페이지 | ![screencapture-localhost-8085-member-mypageOk-me-2023-08-02-00_34_56](https://github.com/EllyKimHub/pandang/assets/123884116/c760345e-1f2d-4730-b83b-1a71e4591232) | ![스크린샷(32)2](https://github.com/EllyKimHub/pandang/assets/123884116/4cb8303c-9576-419f-96f2-8b511f545cb7) |  |  |
 | 장바구니 | ![장바구니](https://github.com/EllyKimHub/pandang/assets/123884116/5ada0dd1-3fef-41c9-803a-6daeeffaa5de) | ![장바구니_선택](https://github.com/EllyKimHub/pandang/assets/123884116/d08d36a5-f1cb-4ac2-8194-3d3516ee43fa) 체크박스로 상품 선택 | ![장바구니_최소선택](https://github.com/EllyKimHub/pandang/assets/123884116/20b52321-c439-450c-ab98-2abf5beec7c4) 선택한 상품 없이 구매시 알람 | ![장바구니_비었음](https://github.com/EllyKimHub/pandang/assets/123884116/e54e564e-30b1-4582-8770-ed143bcd3bb1) 장바구니에 담긴 상품 없음 |
-| 구매하기 | ![구매하기_회원주소](https://github.com/EllyKimHub/pandang/assets/123884116/6f99b25d-be6f-4a0f-a1c8-5e815e71b8e0) | ![구매하기_새주소](https://github.com/EllyKimHub/pandang/assets/123884116/aaf2ffa9-52d7-433d-acb2-91a5d8e62462) 배송 정보 변경 | ![구매하기_새주소배송지](https://github.com/EllyKimHub/pandang/assets/123884116/5c834fe0-0dbb-4c4c-a8b3-c42e8c2d88dd) 주소API|  |
+| 구매하기 | ![구매하기_회원주소](https://github.com/EllyKimHub/pandang/assets/123884116/6f99b25d-be6f-4a0f-a1c8-5e815e71b8e0) | ![구매하기_새주소](https://github.com/EllyKimHub/pandang/assets/123884116/aaf2ffa9-52d7-433d-acb2-91a5d8e62462) 배송 정보 변경 | ![구매하기_새주소배송지](https://github.com/EllyKimHub/pandang/assets/123884116/5c834fe0-0dbb-4c4c-a8b3-c42e8c2d88dd) 주소API| ![결제API연결1-1](https://github.com/EllyKimHub/pandang/assets/123884116/f868f863-74df-4f40-868b-4226a2ceb7a6) 카드결제 API |
 | 구매내역 | ![구매내역](https://github.com/EllyKimHub/pandang/assets/123884116/5c6c3016-29b2-47b2-8aff-a2f4f76ea2ed) | ![구매내역_반품모달](https://github.com/EllyKimHub/pandang/assets/123884116/f5712953-b14f-4a81-9683-c1dfadd416c3) 반품 신청 모달창 | ![구매내역_버튼비활성](https://github.com/EllyKimHub/pandang/assets/123884116/b517a964-1e6c-47ae-bb48-852a2b321f55) 반품 신청 후 버튼 비활성 | ![구매상품_없음](https://github.com/EllyKimHub/pandang/assets/123884116/ba82ddae-59ac-4982-b91a-b7b189493152) 구매 상품 없음 |
